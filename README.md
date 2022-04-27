@@ -2,7 +2,6 @@
 
 ***
 ## Junior Software developer 
-<br>
 
 ### **Contact information**
 * **Phone**: +995 597 792060
