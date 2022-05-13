@@ -4,7 +4,6 @@
 ## Junior Software developer 
 
 ### **Contact information**
-* **Phone**: +995 597 792060
 * **Email**: phavlenishvilimari@gmail.com
 * <a href="https://www.facebook.com/favle/">Facebook</a>
 * <a href="https://www.linkedin.com/in/mari-phavlenishvili-157487198/">LinkedIn</a>
