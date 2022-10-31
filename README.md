@@ -10,7 +10,7 @@
   
 ***
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQG34I92hqG23A/profile-displayphoto-shrink_800_800/0/1587474517484?e=1656547200&v=beta&t=qTQ_9GX3C1GWkJh-abl8JL2XeLB-ziA62oyau8GT30I" > | Hi, I am Mariam, 20 years old, junior full stack Developer. I have been working for almost a year in TBCNet. I'm programmer who has many interests in life and passion to study programming and use it in a creative way...
+<img src="https://scontent.ftbs5-3.fna.fbcdn.net/v/t39.30808-6/313347998_5488689887918139_6057291463588488366_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGvNgMYj629HeGVt3CMj7pIzMgF1LLDaFfMyAXUssNoV6PVaiRYxTxUKYg8bwP80dQOrWJBieFLtjfh4ZCHmvPk&_nc_ohc=n7IbPNnbnmgAX_SCr7K&_nc_ht=scontent.ftbs5-3.fna&oh=00_AfAe7PakZ8qyDUKkdBF5roNC6AZzs7yal3ZBImQYJLB1Mg&oe=6364B575" > | Hi, I am Mariam, 20 years old, junior full stack Developer. I have been working for almost a year in TBCNet. I'm programmer who has many interests in life and passion to study programming and use it in a creative way...
  ------------ | -------------
 
 ## My 2022-2023 goals 🏆
