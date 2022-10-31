@@ -1,7 +1,7 @@
 # **Mariam Pavlenishvili 👩‍💻**
 
 ***
-## Junior Software developer 
+## Software Developer 
 
 ### **Contact information**
 * **Email**: phavlenishvilimari@gmail.com
@@ -16,7 +16,7 @@
 ## My 2022-2023 goals 🏆
 * Become professional full stack developer
 * Study abroad
-* Learn data sience 
+* Learn data science 
 * Improve soft and technical skills
 
 ## Code Example
