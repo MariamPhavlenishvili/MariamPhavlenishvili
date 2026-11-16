@@ -21,5 +21,5 @@
 ```
 ~/achievements
 ├── Node.js & Express     IBM Certification      Dec 2024
-└── Frontend with Angular Tbilisi School of Communication  [year?]
+└── Frontend with Angular Tbilisi School of Communication  2026
 ```
